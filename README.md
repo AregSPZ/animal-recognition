@@ -22,7 +22,7 @@ Transfer Learning: Using a pre-trained model and fine-tuning it on the animal sp
 
 # Results
 
-Over 0.98 F1 macro score and 0.15 cross entropy loss on test set.
+~0.99 F1 macro score and 0.15 cross entropy loss on test set.
 
 # Links
 

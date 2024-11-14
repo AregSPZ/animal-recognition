@@ -10,12 +10,14 @@ The project involves using transfer learning with EfficientNetB0 to classify ima
 # Frameworks Used
 
 TensorFlow: An open-source platform for machine learning.
+
 Keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
 
 
 # Models Used
 
 EfficientNetB0: A state-of-the-art convolutional neural network architecture used for image classification tasks.
+
 Transfer Learning: Using a pre-trained model and fine-tuning it on the animal species dataset.
 
 # Results

@@ -26,6 +26,6 @@ Over 0.98 F1 macro score and 0.15 cross entropy loss on test set.
 
 # Links
 
-[Model (Kaggle)](https://github.com/AregSP/animal-recognition/edit/main/README.md)
+[Model (Kaggle)](https://www.kaggle.com/models/quant27/animal_classifier)
 
 [Notebook (Kaggle)](https://www.kaggle.com/code/quant27/animal-recognition)

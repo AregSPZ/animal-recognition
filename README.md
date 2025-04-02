@@ -23,9 +23,3 @@ Transfer Learning: Using a pre-trained model and fine-tuning it on the animal sp
 # Results
 
 ~0.99 F1 macro score, over 0.99 accuracy, and 0.15 cross entropy loss on test set.
-
-# Links
-
-[Model (Kaggle)](https://www.kaggle.com/models/quant27/animal_classifier)
-
-[Notebook (Kaggle)](https://www.kaggle.com/code/quant27/animal-recognition)
